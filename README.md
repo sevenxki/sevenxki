@@ -2,7 +2,7 @@
 
 <!-- visitor volume -->
 <div align="center">
-  <img src ="https://gv.halberd.cn/sevenxki?theme=stroke-fill&active=FF1493&deactive=f1f1f1&len=8&speed=40&size=30&space=5&tail=0"/>
+  <img src ="https://gv.halberd.cn/sevenxki?theme=stroke-fill&active=B20054&deactive=f1f1f1&len=8&speed=40&size=30&space=5&tail=0"/>
 </div>
 
 <!-- header -->
