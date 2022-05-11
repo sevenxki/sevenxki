@@ -36,7 +36,7 @@
 
 [![Blog](./assets/blog.svg)](https://www.cnblogs.com/sevenkiki/)
 &nbsp;&nbsp;
-[![Mail](./assets/mail)](https://twitter.com/codestackr#gh-light-mode-only)
+[![Mail](./assets/mail.svg)](mailto:sevensevenki@163.com)
 &nbsp;&nbsp;
 [![Github](./assets/github.svg)](https://github.com/sevenxki)
 &nbsp;&nbsp;
