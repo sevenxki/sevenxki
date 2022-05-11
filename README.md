@@ -21,7 +21,7 @@
 <details>
   <summary><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> For more information</summary>
 
-#### about me
+#### About me
 
 * 🎓 I am a student at SCAU. 
 * 🎯 Aspire to become an excellent Frontend Developer.
@@ -29,7 +29,8 @@
 * 📖 Ongoing knowledge output at [sevenkiki.com](https://www.cnblogs.com/sevenkiki/).
 * 💗 Pursue all beautiful and interesting things.
 
-#### Monthly coding time
+<!-- #### Coding statistics
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sevenxki&theme=buefy&layout=compact) -->
 
 
 #### Connect with me
@@ -44,12 +45,17 @@
 
 #### Languages and Tools
 
-<!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist] -->
+<img align="left" alt="HTML5" src="https://cdn.jsdelivr.net/gh/sevenxki/cdn-static@1.0/profile/HTML5.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" src="https://cdn.jsdelivr.net/gh/sevenxki/cdn-static@1.0/profile/CSS3.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/sevenxki/cdn-static@1.0/profile/javascript.svg" style="padding-right:10px;" />
+<img align="left" alt="Vue" src="https://cdn.jsdelivr.net/gh/sevenxki/cdn-static@1.0/profile/Vue.svg"
+<img align="left" alt="Nodejs" src="https://cdn.jsdelivr.net/gh/sevenxki/cdn-static@1.0/profile/Nodejs.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" src="https://cdn.jsdelivr.net/gh/sevenxki/cdn-static@1.0/profile/MYSQL.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" src="https://cdn.jsdelivr.net/gh/sevenxki/cdn-static@1.0/profile/java.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" src="https://cdn.jsdelivr.net/gh/sevenxki/cdn-static@1.0/profile/Python.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/sevenxki/cdn-static@1.0/profile/vscode.svg" style="padding-right:10px;" />
+<img align="left" alt="Intellij IDEA" src="https://cdn.jsdelivr.net/gh/sevenxki/cdn-static@1.0/profile/intellijidea.svg" style="padding-right:10px;" />
+<img align="left" alt="Pycharm" src="https://cdn.jsdelivr.net/gh/sevenxki/cdn-static@1.0/profile/Pycharm.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" src="https://cdn.jsdelivr.net/gh/sevenxki/cdn-static@1.0/profile/git.svg" style="padding-right:10px;" />
 
 </details>
