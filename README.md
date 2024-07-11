@@ -26,7 +26,7 @@
 
 * 🎓 I am a student at SCAU. 
 * 🎯 Aspire to become an excellent Frontend Developer.
-* 🌱 Currently learning Web development, NLP & English.
+* 🌱 Currently learning Web development, CV & English.
 * 📖 Ongoing knowledge output at [sevenkiki.com](https://www.cnblogs.com/sevenkiki/) or [sevenxki.com](https://www.yuque.com/sevenxki).
 * 💗 Pursue all beautiful and interesting things.
 
